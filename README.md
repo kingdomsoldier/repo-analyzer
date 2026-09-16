@@ -1,5 +1,11 @@
 # @kingdom_soldier/repo-analyzer
 
+[![npm version](https://img.shields.io/npm/v/@kingdom_soldier/repo-analyzer.svg)](https://www.npmjs.com/package/@kingdom_soldier/repo-analyzer)
+[![npm downloads](https://img.shields.io/npm/dm/@kingdom_soldier/repo-analyzer.svg)](https://www.npmjs.com/package/@kingdom_soldier/repo-analyzer)
+[![license](https://img.shields.io/npm/l/@kingdom_soldier/repo-analyzer.svg)](https://github.com/kingdomsoldier/repo-analyzer/blob/main/LICENSE)
+[![node](https://img.shields.io/node/v/@kingdom_soldier/repo-analyzer.svg)](https://nodejs.org)
+[![GitHub stars](https://img.shields.io/github/stars/kingdomsoldier/repo-analyzer.svg?style=social)](https://github.com/kingdomsoldier/repo-analyzer/stargazers)
+
 Analiza un repositorio respetando `.gitignore` y exporta su estructura y
 contenido como JSON. Ideal para dar contexto a una IA sobre un proyecto.
 
