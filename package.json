@@ -18,12 +18,12 @@
   "author": "kingdom_soldier <jocsanrodja@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingdom_soldier/repo-analyzer.git"
+    "url": "git+https://github.com/kingdomsoldier/repo-analyzer.git"
   },
   "bugs": {
-    "url": "https://github.com/kingdom_soldier/repo-analyzer/issues"
+    "url": "https://github.com/kingdomsoldier/repo-analyzer/issues"
   },
-  "homepage": "https://github.com/kingdom_soldier/repo-analyzer#readme",
+  "homepage": "https://github.com/kingdomsoldier/repo-analyzer#readme",
   "main": "src/index.js",
   "bin": {
     "repo-analyzer": "bin/cli.js"
