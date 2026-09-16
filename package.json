@@ -1,0 +1,46 @@
+{
+  "name": "@kingdom_soldier/repo-analyzer",
+  "version": "1.0.0",
+  "description": "Analiza un repositorio respetando .gitignore y exporta su estructura y contenido como JSON, ideal para dar contexto a una IA.",
+  "keywords": [
+    "repository",
+    "analyzer",
+    "gitignore",
+    "ai",
+    "llm",
+    "context",
+    "json",
+    "tree",
+    "cli",
+    "codebase"
+  ],
+  "license": "MIT",
+  "author": "kingdom_soldier <jocsanrodja@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingdom_soldier/repo-analyzer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kingdom_soldier/repo-analyzer/issues"
+  },
+  "homepage": "https://github.com/kingdom_soldier/repo-analyzer#readme",
+  "main": "src/index.js",
+  "bin": {
+    "repo-analyzer": "bin/cli.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "ignore": "^5.3.0"
+  }
+}
